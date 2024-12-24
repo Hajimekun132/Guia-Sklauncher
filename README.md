@@ -20,3 +20,4 @@
                 incluso mods para ver en la oscuridad.</li>
             <li>Una vez colocados los mods, nos regresamos y buscamos, en el mismo lugar, la carpeta 'resourcepacks'. Allí vamos a colocar el texture pack que está
                  en el canal 'IP-PokeCafé'. Es importante no descomprimirlo, solo se debe copiar y pegar tal cual en la carpeta.</li>
+        <h2>Paso 4: Colocacións de datos dentro de Minecraft:</h2>
