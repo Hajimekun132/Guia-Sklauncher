@@ -1,4 +1,4 @@
 # Guia-Sklauncher-PokeCafe
 <body>
     <main>
-        <h2>Lista de objetos no permitidos:</h2>
+        <h2>Paso 1: :</h2>
