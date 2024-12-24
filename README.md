@@ -27,3 +27,4 @@
             <li>Nombre: PokeCafé</li>
             <li>Dirección IP: mc.pokecafe.net</li>
             <li>Una vez hecho todo, deberías poder ingresar. Por parte del staff, te deseamos mucha suerte en esta aventura.
+<!--  -->
