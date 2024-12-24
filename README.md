@@ -5,4 +5,4 @@
         <ul>
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
-![](https://github.com/Hajimekun132/Guia-Sklauncher-PokeCafe/blob/main/login_screen.jpg.png)
+![](https://github.com/Hajimekun132/Guia-Sklauncher-PokeCafe/issues/1)
