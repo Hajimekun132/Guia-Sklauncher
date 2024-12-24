@@ -5,5 +5,6 @@
         <ul>
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
+            Imagen from github issues:
+            
             ![login_screen jpg](https://github.com/user-attachments/assets/42b7da97-a784-4c72-8aab-d32f462eefcd)
-![]
