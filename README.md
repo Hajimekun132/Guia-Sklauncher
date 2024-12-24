@@ -9,6 +9,6 @@
         <ul>
             <li>Haz clic en el signo de + junto al administrador de instalación.</li>
             <li>Una vez dentro, debes ingresar los siguientes datos:</li>
-          <li>  -Datos de la instalación: PokeCafé</li>
-            <li>-Versión: Forge 1.16.5 - 36.2.39</li>
-            <li>-En el directorio de juego, coloca un nombre único para evitar conflictos con otros servidores.</li>
+            <li>Nombre de la instalación: PokeCafé</li>
+            <li>Versión: Forge 1.16.5 - 36.2.39</li>
+            <li>En el directorio de juego, coloca un nombre único para evitar conflictos con otros servidores.</li>
