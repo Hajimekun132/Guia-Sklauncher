@@ -6,6 +6,5 @@
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
       <!--      ## Preview -->
-            
-![Login Screen](login_screen.jpg) 
-width="20"
+        
+<img src= ![Login Screen](login_screen.jpg) width="20">
