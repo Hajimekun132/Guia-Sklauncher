@@ -12,3 +12,6 @@
             <li>Nombre de la instalación: PokeCafé</li>
             <li>Versión: Forge 1.16.5 - 36.2.39</li>
             <li>En el directorio de juego, coloca un nombre único para evitar conflictos con otros servidores.</li>
+        <h2>Paso 3: Colocación de mods y texture pack:</h2>
+        <ul>
+            <li>Vamos a hacer clic en los tres puntos de nuestro servidor y, justo en la tercera opción, vamos a ingresar.</li>
