@@ -7,4 +7,4 @@
             <li>En caso de optar por la segunda opción, deberás elegir un nombre.</li>
         <h2>Paso 2: Ajustar la configuración del servidor:</h2>
         <ul>
-            <li>Haz clic en el signo de + junto al administrador de instalación. </li>
+            <li>Haz clic en el signo de + junto al administrador de instalación.</li>
