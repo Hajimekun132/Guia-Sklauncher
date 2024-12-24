@@ -7,4 +7,5 @@
             <li>No Premium: Switch to offline mode</li>
       <!--      ## Preview -->
             
-![Login Screen](login_screen.jpg) width="20"
+![Login Screen](login_screen.jpg) 
+width="20"
