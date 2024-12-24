@@ -16,4 +16,4 @@
         <ul>
             <li>Vamos a hacer clic en los tres puntos de nuestro servidor y, justo en la tercera opción, vamos a ingresar.</li>
             <li>Deberán aparecer varias carpetas diferentes, pero nosotros vamos a buscar la carpeta llamada 'mods'</li>
-            <li></li>
+            <li>En esa carpeta vamos a colocar el mod de Pixelmon versión 1.16.5 - 9.1.13. También pueden agregar otros mods de optimización, mapas, de crafteos e incluso mods para ver en la oscuridad.</li>
