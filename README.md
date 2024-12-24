@@ -20,7 +20,9 @@
                 incluso mods para ver en la oscuridad.</li>
             <li>Una vez colocados los mods, nos regresamos y buscamos, en el mismo lugar, la carpeta 'resourcepacks'. Allí vamos a colocar el texture pack que está
                  en el canal 'IP-PokeCafé'. Es importante no descomprimirlo, solo se debe copiar y pegar tal cual en la carpeta.</li>
-        <h2>Paso 4: Colocacións de datos dentro de Minecraft:</h2>
+        <h2>Paso 4: Colocación de datos dentro de Minecraft:</h2>
         <ul>
     <li>Al entrar a Minecraft, debería aparecerte la pantalla de carga roja. Una vez cargado, debemos ir a 'Multijugador' y hacer clic en 'Agregar servidor'.</li>
             <li>Colocamos los siguientes datos:</li>
+            <li>Nombre: PokeCafé</li>
+            <li>Dirección IP: mc.pokecafe.net</li>
