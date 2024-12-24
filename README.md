@@ -5,6 +5,4 @@
         <ul>
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
-git add login_screen.jpg
-git commit -m "https://github.com/user-attachments/assets/9bac43de-44c1-4761-8abd-cfdcb9bbc8e1"
-git push
+![https://github.com/user-attachments/assets/c74871e9-0526-4400-86a5-50cf2b55ba48](login_screen.jpg)
