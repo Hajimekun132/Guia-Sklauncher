@@ -8,3 +8,7 @@
         <h2>Paso 2: Ajustar la configuración del servidor:</h2>
         <ul>
             <li>Haz clic en el signo de + junto al administrador de instalación.</li>
+            <li>Una vez dentro, debes ingresar los siguientes datos:
+            -Datos de la instalación: PokeCafé
+            -Versión: Forge 1.16.5 - 36.2.39
+            -En el directorio de juego, coloca un nombre único para evitar conflictos con otros servidores.</li>
