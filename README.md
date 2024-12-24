@@ -15,3 +15,5 @@
         <h2>Paso 3: Colocación de mods y texture pack:</h2>
         <ul>
             <li>Vamos a hacer clic en los tres puntos de nuestro servidor y, justo en la tercera opción, vamos a ingresar.</li>
+            <li>Deberán aparecer varias carpetas diferentes, pero nosotros vamos a buscar la carpeta llamada 'mods'</li>
+            <li></li>
