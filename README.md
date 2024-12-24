@@ -5,6 +5,6 @@
         <ul>
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
-            ## Preview .gitignore
+      <!--      ## Preview -->
             
 ![Login Screen](login_screen.jpg)
