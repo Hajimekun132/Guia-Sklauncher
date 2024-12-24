@@ -5,5 +5,6 @@
         <ul>
             <li>Premium: Login with Microsoft</li>
             <li>No Premium: Switch to offline mode</li>
- <li>![Captura de pantalla 2024-12-24 120240](https://github.com/user-attachments/assets/e6e8208e-bd5d-4601-a405-76cb17b69104)</li>
- <li>
+git add login_screen.jpg
+git commit -m ![login_screen jpg](https://github.com/user-attachments/assets/9bac43de-44c1-4761-8abd-cfdcb9bbc8e1)
+git push
