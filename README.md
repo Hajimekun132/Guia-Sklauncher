@@ -1,5 +1,9 @@
 <body>
     <main>
+        <h1>Paso 1: Descargar Sklauncher:</h1>
+        <li>Aqui te dejo un link en donde podras descargalo correctamente.</li>
+        <li>https://www.youtube.com/watch?v=AfCj5TZKJIs</li>
+    <main>
         <h1>Paso 1: Seleccionar el tipo de cuenta:</h1>
         <ul>
             <li>Premium: Login with Microsoft</li>
